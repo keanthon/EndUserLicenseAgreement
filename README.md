@@ -104,23 +104,30 @@
 
 **This EULA shall be deemed to be construed under the jurisdiction of the courts located in Michigan, without regard to conflicts of laws as regards the provisions thereof. Any legal action relating to this EULA shall be brought exclusively in the courts of Michigan, and all parties consent to the jurisdiction thereof. Furthermore, the prevailing party in any action to enforce this EULA shall be entitled to recover costs and expenses including, without limitation, legal fees. Accordingly, this EULA is made within the exclusive jurisdiction of the Michigan, and its jurisdiction shall supersede any other jurisdiction of either party&#39;s election.**
 
+**Product Claims**
+
+**You and M.o.o.o.d Inc acknowledge that we, not Apple, are responsible for addressing any claims from yoursef or any third party relating to the Licensed Application or the end- user’s possession and/or use of that Licensed Application, including, but not limited to: (i) product liability claims; (ii) any claim that the Licensed Application fails to conform to any applicable legal or regulatory requirement; and (iii) claims arising under consumer protection, privacy, or similar legislation, including in connection with the Licensed Application’s use of the HealthKit and HomeKit frameworks.**
+
 **Legal Compliance**
 
 **You hereby represent and warrant that (i) you are not located in a country that is subject to a U.S. Government embargo, or that has been designated by the U.S. Government as a “terrorist supporting” country; and (ii) you are not listed on any U.S. Government list of prohibited or restricted parties.**
+
+**Third Party Beneficiary**
+
+**You and M.o.o.o.d Inc hereby acknowledge and agree that Apple, and Apple’s subsidiaries, are third party beneficiaries of the EULA, and that, upon the End-User’s acceptance of the terms and conditions of the EULA, Apple will have the right (and will be deemed to have accepted the right) to enforce the EULA against the End-User as a third party beneficiary thereof.**
 
 **Third Party Terms of Agreement**
 
 **You hereby agree that you will comply with applicable third party terms of agreement when using our Application.**
 
-**Third Party Beneficiary**
-
-**You hereby acknowledge and agree that Apple, and Apple’s subsidiaries, are third party beneficiaries of the EULA, and that, upon the End-User’s acceptance of the terms and conditions of the EULA, Apple will have the right (and will be deemed to have accepted the right) to enforce the EULA against the End-User as a third party beneficiary thereof.**
 
 # **Contact Information**
 
 **Please direct any End-User questions, complaints or claims with respect to the Licensed Application to:**
 **Anthony Ke**
+
 **618 S Main St, Ann Arbor, Michigan 48104**
+
 **mooodumich@gmail.com**
 
 
