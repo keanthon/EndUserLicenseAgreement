@@ -118,7 +118,7 @@
 
 # **Contact Information**
 
-**Please direct any End-User questions, complaints or claims with respect to the Licensed Application to:
+**Please direct any End-User questions, complaints or claims with respect to the Licensed Application to:**
 **Anthony Ke**
 **618 S Main St, Ann Arbor, Michigan 48104**
 **mooodumich@gmail.com**
