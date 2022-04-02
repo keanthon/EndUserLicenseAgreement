@@ -116,7 +116,7 @@
 
 **You hereby acknowledge and agree that Apple, and Apple’s subsidiaries, are third party beneficiaries of the EULA, and that, upon the End-User’s acceptance of the terms and conditions of the EULA, Apple will have the right (and will be deemed to have accepted the right) to enforce the EULA against the End-User as a third party beneficiary thereof.**
 
-#**Contact Information**
+# **Contact Information**
 
 **Please direct any End-User questions, complaints or claims with respect to the Licensed Application to:
 **Anthony Ke**
